@@ -116,17 +116,6 @@ cd job-market-skill-gap
 pip install requests beautifulsoup4 pandas matplotlib plotly
 jupyter notebook job_market_skill_gap_analyzer.ipynb
 ```
-
----
-
-## 🔮 What I'd Build Next
-
-- **Scrape job descriptions** (not just titles) — would give 10x richer skill data
-- **Stipend analysis** — which skills pay more at internship level?
-- **Time series** — scrape weekly and track how skill demand shifts over months
-- **NLP on descriptions** — use TF-IDF to extract skills automatically without a keyword list
-- **Interactive Plotly dashboard** — embed in a web page with Dash
-
 ---
 
 ## 🧠 What I Learned
