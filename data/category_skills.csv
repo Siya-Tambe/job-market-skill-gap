@@ -1,0 +1,108 @@
+Category,Skill,Count
+Web Development,WordPress,7
+Web Development,Full Stack,7
+Web Development,Backend,3
+Web Development,PHP,3
+Web Development,Front End,2
+Data Science,AI,14
+Data Science,Marketing,8
+Data Science,Research,4
+Data Science,Social Media,3
+Data Science,Market Research,2
+Python,AI,11
+Python,Full Stack,3
+Python,Python,3
+Python,Machine Learning,2
+Python,Cloud,1
+Machine Learning,AI,22
+Machine Learning,Machine Learning,7
+Machine Learning,Python,4
+Machine Learning,AWS,1
+Machine Learning,Cloud,1
+Android Development,Flutter,21
+Android Development,Android,10
+Android Development,iOS,2
+Android Development,Front End,1
+Android Development,AI,1
+UI UX Design,Graphic Design,27
+UI UX Design,UI,7
+UI UX Design,UX,7
+UI UX Design,Full Stack,1
+Cybersecurity,AI,1
+Cybersecurity,Research,1
+Cybersecurity,Cybersecurity,1
+Cloud Computing,Cloud,8
+Cloud Computing,AI,6
+Cloud Computing,AWS,5
+Cloud Computing,Full Stack,5
+Cloud Computing,Sales,2
+DevOps,DevOps,2
+DevOps,Full Stack,2
+DevOps,Machine Learning,1
+DevOps,Java,1
+Artificial Intelligence,AI,13
+Artificial Intelligence,Marketing,10
+Artificial Intelligence,Sales,5
+Artificial Intelligence,Business Development,3
+Artificial Intelligence,Video Editing,2
+Digital Marketing,Marketing,32
+Digital Marketing,Social Media,13
+Digital Marketing,Sales,8
+Digital Marketing,Business Development,6
+Digital Marketing,AI,2
+Business Development,Sales,37
+Business Development,Business Development,26
+Business Development,Marketing,9
+Human Resources,HR,25
+Human Resources,Recruitment,6
+Human Resources,Marketing,1
+Finance,Accounting,23
+Finance,Finance,2
+Finance,Sales,2
+Finance,Research,1
+Finance,Marketing,1
+Sales,Sales,35
+Sales,Business Development,25
+Sales,Marketing,8
+Sales,Market Research,1
+Sales,Research,1
+Graphic Design,Graphic Design,23
+Graphic Design,Marketing,6
+Graphic Design,Social Media,4
+Graphic Design,Animation,1
+Graphic Design,AI,1
+Content Writing,Marketing,30
+Content Writing,Social Media,18
+Content Writing,Content Writing,6
+Content Writing,AI,2
+Content Writing,Research,2
+Video Editing,Video Editing,19
+Video Editing,Marketing,10
+Video Editing,Social Media,9
+Video Editing,Graphic Design,7
+Video Editing,Animation,1
+Social Media,Marketing,17
+Social Media,Business Development,8
+Social Media,Sales,6
+Social Media,Social Media,5
+Civil Engineering,Mechanical,4
+Civil Engineering,Civil,3
+Civil Engineering,Research,1
+Civil Engineering,Animation,1
+Civil Engineering,AutoCAD,1
+Mechanical,Mechanical,4
+Mechanical,Animation,1
+Mechanical,AutoCAD,1
+Mechanical,AI,1
+Legal,Legal,38
+Legal,Research,5
+Teaching,Teaching,14
+Teaching,DevOps,1
+Teaching,Business Development,1
+Teaching,AI,1
+Teaching,Marketing,1
+Healthcare,Marketing,4
+Healthcare,Sales,3
+Healthcare,Business Development,3
+Healthcare,AI,2
+Healthcare,Graphic Design,1
