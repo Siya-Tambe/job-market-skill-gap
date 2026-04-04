@@ -29,16 +29,16 @@ I scraped real, live data from Internshala across tech, business, creative, and 
 ### Power BI Interactive Dashboard
 > Filter by field (Tech / Business / Creative / Other) — all visuals update instantly via cross-filtering.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard/dashboard_preview.png)
 
 ### Top 20 In-Demand Skills
-![Chart 1](chart1_top_skills.png)
+![Chart 1](charts/chart1_top_skills.png)
 
 ### Skills Breakdown by Category
-![Chart 2](chart2_skills_by_category.png)
+![Chart 2](charts/chart2_skills_by_category.png)
 
 ### Job Title Specificity
-![Chart 3](chart3_vagueness.png)
+![Chart 3](charts/chart3_vagueness.png)
 
 ---
 
